@@ -1,0 +1,7 @@
+in main:
+1st Value is item name
+2nd Value is description
+3rd value is the price to buy and 4th value is the price to sell
+5th Value is if you can buy it
+6th Value is if it is useable
+7th value is the ID for the item
