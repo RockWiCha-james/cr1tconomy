@@ -19,7 +19,7 @@ great_shop = [
   
   ["Laptop <:laptop:950468257993883690> ", "A laptop used for certain commands such as ``c pcp``", "3000", "1000", True, False, "laptop"], 
   
-  ["Fishing Pole <:fishingpole:950470121015640074> ", "An item that is very important when you want to fish (obviously)", "4000", "400", True, False, "fishingpole"], 
+  ["Fishing Pole <:fishingpole:950470121015640074> ", "An item that is very important when you want to fish (obviously)", "4000", "1400", True, False, "fishingpole"], 
   
   ["Alcohol <:alcohol:950468550936641566> ", "What you can use to bet on certain commands and get more coins if you win but lose more coins if you lose!", "8000", "2500", True, True, "alcohol"], 
   
@@ -43,7 +43,7 @@ great_shop = [
 
   ["Coin Fish", "The most epic fish in the world that almost no one has seen", "You can't buy this", "275830", False, False, "coinfish"],
 
-  ["Hunting Rifle <:rifleeeee:950808039114563624>  ", "An item that is very important when you want to hunt (if u wanna know why its upside down its because its sleeping)", "5000", "500", True, False, "rifle"], 
+  ["Hunting Rifle <:rifleeeee:950808039114563624>  ", "An item that is very important when you want to hunt (if u wanna know why its upside down its because its sleeping)", "5000", "1500", True, False, "rifle"], 
 
   ["Duck", "Just a normal duck, nothing special about it", "You can't buy this.", "80", False, False, "duck"], 
 
